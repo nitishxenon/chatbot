@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+
+
+<meta name="author" content="Thomas Ringate"/>
+<meta name="language" content="en"/>
+
+
+
+<category>
+<pattern>WHAT IS BACTERIA</pattern>
+<template>
+An amoeba, often called amoeboid, is a type of cell or unicellular organism which has the ability to alter its shape, primarily by extending and retracting pseudopods.
+</template>
+</category>
+
+<category>
+<pattern>WHAT'S YOUR NAME</pattern>
+<template>
+my name is nooobe
+</template>
+</category>
+
+
+</aiml>
